@@ -1,0 +1,11 @@
+During the development of my Dance Academy website, I gained valuable experience in full-stack web development using various technologies. I started by designing the website's user interface using HTML, CSS, and Bootstrap to create a visually appealing and responsive layout.
+
+For the backend, I utilized Node.js and Express.js to build a server that handles the website's routing and logic. I also integrated MongoDB as the database to store and manage user information and dance class details.
+
+One of the key features of the website is the contact page, which allows visitors to reach out to the academy for inquiries or registration. I implemented form validation using JavaScript to ensure that user inputs are accurate and complete before submission. Upon successful submission, the data is stored in the MongoDB database using Mongoose.
+
+Throughout the development process, I learned how to integrate different technologies and frameworks effectively. I gained proficiency in using Pug as the template engine for rendering dynamic views and learned how to pass data between the backend and frontend.
+
+Additionally, I improved my understanding of RESTful API design principles, enabling me to create efficient and scalable endpoints for handling various HTTP requests.
+
+Overall, this project enhanced my skills in front-end and back-end web development, database integration, form validation, and API design. It was a valuable learning experience that allowed me to apply my knowledge and create a functional and interactive Dance Academy website.
